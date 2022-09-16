@@ -44,3 +44,6 @@ typings/
 
 # Yarn Integrity file
 .yarn-integrity
+
+# Intellij
+.idea
